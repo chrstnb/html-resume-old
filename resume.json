@@ -1,0 +1,146 @@
+{
+	"name": "Christine Betts",
+	"title": "Computer Science Student",
+	"info": [
+		{
+			"type": "phone",
+			"data": "913-909-2180"
+		},
+		{
+			"type": "email",
+			"data": "chrstn@uw.edu"
+		},
+		{
+			"type": "website",
+			"data": "christinebetts.com"
+		},
+		{
+			"type": "linkedin",
+			"data": "linkedin.com/in/bettschristine"
+		},
+		{
+			"type": "github",
+			"data": "github.com/chrstnb"
+		}
+
+	],
+	"work": [
+		{
+			"job": "U-Grad Research Assistant",
+			"date": "12.2017-",
+			"place": "Paul G. Allen School",
+			"location": "Seattle, WA",
+			"description": "Designs and implements front-end code for a lab-on-a-chip project under the PLSE and MISL labs."
+		},
+		{
+			"job": "CSE 143 TEACHING ASSISTANT",
+			"date": "03.2017-12.2017",
+			"place": "Paul G. Allen School",
+			"location": "Seattle, WA",
+			"description": "Taught Java basics in second in intro programming series in twice-weekly section to ~20 students. Graded weekly assignments & exams, plans lessons, and dove in-depth at tutoring lab."
+
+		},
+		{
+			"job": "ENG. PRACTICUM INTERN",
+			"date": "06.2017-09.2017",
+			"place": "Google",
+			"location": "Mountain View, CA",
+			"description": "Communicated with cross-office team to expand the AdWords Scripts API, a service advertisers use to automate search ad creation/reporting. Uses server-side knowledge, Java & Javascript, and good documentation to create a well-designed and maintainable implementation of the designed API expansion."
+
+		},
+		{
+			"job": "CONGRESSIONAL INTERN",
+			"date": "01.2016-05.2016",
+			"place": "US House of Representatives",
+			"location": "Washington, DC",
+			"description": "Researched policies and crafted arguments with an emphasis on development, education, and the environment. Gave capitol tours and communicated with constituents."
+
+		},
+		{
+			"job": "INTERNAL SYSTEMS MANAGER",
+			"date": "08.2015-08.2016",
+			"place": "B.Lin Catering",
+			"location": "Washington, DC",
+			"description": "Worked across roles in startup catering company including managing HR functions, creating efficiency-doubling Excel models, planning non-profit events, designing promotional materials."
+		}
+	],
+	"volunteer": [
+		{
+			"job": "Big Sister",
+			"date": "05.2017-",
+			"place": "Big Brothers/Big Sisters",
+			"location": "Seattle, WA"
+		},
+		{
+			"job": "Coach / Mentor / Teacher",
+			"date": "09.2015-03.2016",
+			"place": "Girls on the Run",
+			"location": "Washington, DC"
+		},
+		{
+			"job": "MEDIA & GENERAL VOLUNTEER",
+			"date": "05.2015-06.2015",
+			"place": "Big Brothers/Big Sisters",
+			"location": "Seattle, WA"
+		}
+	],
+	"education": [
+		{
+			"job": "B. SCI. COMPUTER Science",
+			"date": "10.2016-",
+			"place": "ALLEN SCHOOL",
+			"location": "UNIVERSITY OF WASHINGTON",
+			"graduation": "June 2019",
+			"gpa": "3.53/4.0",
+			"description": "Involved in larger UW community as a Unite UW facilitator (an organization celebrating cross-cultural connections) and member of the provost’s advisory committee."
+		},
+		{
+			"job": "IB DIPLOMA RECIPIENT",
+			"date": "08.2011-05.2015",
+			"place": "LS West High School",
+			"location": "Lee's Summit, MO",
+			"description": "Top 1% of class, NHS president, newspaper editor, Kindness Council founder, principal oboist, cross-country runner."
+		}
+	],
+	"skills": {
+		"proficient": [
+			"Java",
+			"Javascript",
+			"jQuery",
+			"HTML5/CSS3",
+			"Illustrator",
+			"InDesign",
+			"Apps Script",
+			"Spanish"
+		],
+		"familiar": [
+			"SQL",
+			"PHP",
+			"Python",
+			"Angular",
+			"NLTK",
+			"d3.js",
+			"MEAN Stack"
+		],
+		"tools": [
+			"Git/version control",
+			"command line",
+			"Bash Scripting"
+		]
+	},
+	"awards": [
+		"Allen Institute for Artificial Intelligence: Outstanding Software Engineer",
+		"2017-2018 TUNE Scholar",
+		"Dreama Frost Scholarship",
+		"UW Dean’s List Autumn ‘16 & Winter ‘17",
+		"Missouri State Women in Legislature Scholarship",
+		"Rotary Youth Leadership Award"
+	],
+	"strengths": [
+		"Active listener & compassionate empath",
+		"Scrupulous & detail-oriented",
+		"Tenacious problem solver",
+		"Strong communicator, especially as a teacher",
+		"Fast learner & voracious reader"
+	]
+}
