@@ -105,6 +105,7 @@
 	"skills": {
 		"proficient": [
 			"Java",
+			"Rust",
 			"Javascript",
 			"jQuery",
 			"HTML5/CSS3",
@@ -117,22 +118,23 @@
 			"SQL",
 			"PHP",
 			"Python",
-			"Angular",
-			"NLTK",
-			"d3.js",
-			"MEAN Stack"
+			"Haskell",
+			"Racket",
+			"C",
+			"C++"
+
 		],
 		"tools": [
 			"Git/version control",
-			"command line",
-			"Bash Scripting"
+			"Command line",
+			"GDB/LLDB"
 		]
 	},
 	"awards": [
 		"Allen Institute for Artificial Intelligence: Outstanding Software Engineer",
 		"2017-2018 TUNE Scholar",
 		"Dreama Frost Scholarship",
-		"UW Dean’s List Autumn ‘16 & Winter ‘17",
+		"UW Dean’s List Au ‘16, Wi '17, Wi '18",
 		"Missouri State Women in Legislature Scholarship",
 		"Rotary Youth Leadership Award"
 	],
