@@ -26,18 +26,25 @@
 	],
 	"work": [
 		{
+			"job": "Software Engineering Intern",
+			"date": "06.2018-",
+			"place": "Facebook",
+			"location": "New York City",
+			"description": "Full stack work on the News team. Contributes actively to time-sensitive team projects, as well as defining and implementing a more independent project."
+		},
+		{
 			"job": "U-Grad Research Assistant",
-			"date": "12.2017-",
+			"date": "12.2017-06.2018",
 			"place": "Paul G. Allen School",
 			"location": "Seattle, WA",
-			"description": "Designs and implements front-end code for a lab-on-a-chip project under the PLSE and MISL labs."
+			"description": "Contributed to an open source operating system for a microfluidics lab-on a chip in the MISL group."
 		},
 		{
 			"job": "CSE 143 TEACHING ASSISTANT",
 			"date": "03.2017-12.2017",
 			"place": "Paul G. Allen School",
 			"location": "Seattle, WA",
-			"description": "Taught Java basics in second in intro programming series in twice-weekly section to ~20 students. Graded weekly assignments & exams, plans lessons, and dove in-depth at tutoring lab."
+			"description": "Taught Java basics in second in intro programming series"
 
 		},
 		{
