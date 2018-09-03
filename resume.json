@@ -111,12 +111,13 @@
 	"skills": {
 		"proficient": [
 			"Java",
+			"Hack",
+			"React",
+			"GraphQL",
 			"Rust",
 			"Javascript",
 			"jQuery",
 			"HTML5/CSS3",
-			"Apps Script",
-			"Spanish"
 		],
 		"familiar": [
 			"PHP",
@@ -135,6 +136,7 @@
 	},
 	"awards": [
 		"Allen Institute for Artificial Intelligence: Outstanding Software Engineer",
+		"Allen School Undergraduate Research Poster Fair: 3rd place",
 		"2017-2018 TUNE Scholar",
 		"Dreama Frost Scholarship",
 		"UW Dean’s List Au ‘16, Wi '17, Wi '18",
