@@ -131,7 +131,8 @@
 		"tools": [
 			"Git/version control",
 			"Command line",
-			"GDB/LLDB"
+			"GDB/LLDB",
+			"Mercurial"
 		]
 	},
 	"awards": [
