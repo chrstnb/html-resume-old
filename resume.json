@@ -26,11 +26,18 @@
 	],
 	"work": [
 		{
-			"job": "Software Engineering Intern",
-			"date": "06.2018-",
+			"job": "Software Engineer Intern",
+			"date": "09.2018-",
+			"place": "Allen Institute for Artificial Intelligence",
+			"location": "Seattle, WA",
+			"description": "Implementing the Semantic Scholar knowledge graph as a graph database. Holding interviews with key stakeholders and users."
+		},
+		{
+			"job": "Software Engineer Intern",
+			"date": "06.2018-09.2018",
 			"place": "Facebook",
-			"location": "New York City",
-			"description": "Full stack work on the News team. Contributes actively to time-sensitive team projects, as well as defining and implementing a more independent project."
+			"location": "NY, NY",
+			"description": "Full stack work on the News team. Contributed actively to time-sensitive team projects and defined and implemented an independent project."
 		},
 		{
 			"job": "U-Grad Research Assistant",
@@ -59,16 +66,14 @@
 			"job": "CONGRESSIONAL INTERN",
 			"date": "01.2016-05.2016",
 			"place": "US House of Representatives",
-			"location": "Washington, DC",
-			"description": "Researched policies and crafted arguments with an emphasis on development, education, and the environment. Gave capitol tours and communicated with constituents."
+			"location": "Washington, DC"
 
 		},
 		{
 			"job": "INTERNAL SYSTEMS MANAGER",
 			"date": "08.2015-08.2016",
 			"place": "B.Lin Catering",
-			"location": "Washington, DC",
-			"description": "Worked across roles in startup catering company including managing HR functions, creating efficiency-doubling Excel models, planning non-profit events, designing promotional materials."
+			"location": "Washington, DC"
 		}
 	],
 	"volunteer": [
@@ -132,7 +137,10 @@
 			"Git/version control",
 			"Command line",
 			"GDB/LLDB",
-			"Mercurial"
+			"Mercurial",
+			"Neo4j",
+			"Docker",
+			"AWS"
 		]
 	},
 	"awards": [
