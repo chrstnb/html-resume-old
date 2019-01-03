@@ -30,7 +30,7 @@
 			"date": "09.2018-",
 			"place": "Allen Institute for AI",
 			"location": "Seattle, WA",
-			"description": "Implementing the Semantic Scholar knowledge graph as a graph database. Holding interviews with key stakeholders and users."
+			"description": "Implementing the Semantic Scholar knowledge graph as a graph database using Neo4j. Developing a scalable system to allow robust queries and discoveries of academic networks and entity mentions."
 		},
 		{
 			"job": "Software Engineer Intern",
