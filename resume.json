@@ -51,7 +51,7 @@
 			"date": "03.2017-12.2017",
 			"place": "Paul G. Allen School",
 			"location": "Seattle, WA",
-			"description": "Taught Java basics in second in intro programming series"
+			"description": "Taught Java basics in second in intro programming series."
 
 		},
 		{
@@ -92,8 +92,8 @@
 		{
 			"job": "MEDIA & GENERAL VOLUNTEER",
 			"date": "05.2015-06.2015",
-			"place": "Big Brothers/Big Sisters",
-			"location": "Seattle, WA"
+			"place": "Foxes NGO",
+			"location": "Mufindi, Tanzania"
 		}
 	],
 	"education": [
@@ -144,6 +144,7 @@
 		]
 	},
 	"awards": [
+		"CUSP Rich Context Competition: 1st place (with AI2 team)",
 		"Allen Institute for Artificial Intelligence: Outstanding Software Engineer Scholarship/Award",
 		"Allen School Undergraduate Research Poster Fair: 3rd place",
 		"2017-2018 TUNE Scholar",
