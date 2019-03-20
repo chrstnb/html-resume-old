@@ -147,8 +147,8 @@
 		"Rotary Youth Leadership Award"
 	],
 	"strengths": [
-		"Puddle: A Dynamic, Error-Correcting, Full-Stack Microfluidics Platform (Max Willsey, Ashley P Stephenson, Chris Takahashi, Pranav Vaid, Bichlien H Nguyen, Michal Piszczek, Christine Betts, Sharon Newman, Sarang Joshi, Karin Strauss, Luis Ceze); ASPLOS 2019",
-		"GrapAL: Querying Semantic Scholar’s Literature Graph (Christine Betts, Joanna Power, Waleed Ammar); under review",
-		"AI2 Rich Context Competition whitepaper (Daniel King, Waleed Ammar, Iz Beltagy, Christine BettsSuchin Gururangan and Madeleine van Zuylen)"
+		"Puddle: A Dynamic, Error-Correcting, Full-Stack Microfluidics Platform (Max Willsey et al.); ASPLOS 2019",
+		"GrapAL: Querying Semantic Scholar’s Literature Graph (Christine Betts et al.); under review",
+		"AI2 Rich Context Competition whitepaper (Daniel King et al.)"
 	]
 }
