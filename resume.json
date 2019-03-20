@@ -88,12 +88,6 @@
 			"date": "09.2015-03.2016",
 			"place": "Girls on the Run",
 			"location": "Washington, DC"
-		},
-		{
-			"job": "MEDIA & GENERAL VOLUNTEER",
-			"date": "05.2015-06.2015",
-			"place": "Foxes NGO",
-			"location": "Mufindi, Tanzania"
 		}
 	],
 	"education": [
@@ -144,7 +138,7 @@
 		]
 	},
 	"awards": [
-		"CUSP Rich Context Competition: 1st place (with AI2 team)",
+		"CUSP Rich Context Competition: 1st place (w/ AI2 team)",
 		"Allen Institute for Artificial Intelligence: Outstanding Software Engineer Scholarship/Award",
 		"Allen School Undergraduate Research Poster Fair: 3rd place",
 		"2017-2018 TUNE Scholar",
